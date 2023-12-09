@@ -38,7 +38,7 @@ Welcome to the CampusCrafter API - your comprehensive solution for managing the 
 
 🔍 **Explore More**
 
-- [API Documentation](#)
+- [API Documentation](https://docs.google.com/document/d/1WNzcdJgR2q2i_7o146rENDtC_QyednDoH8pJU7eY7bo/edit?usp=sharing)
 - [Contribution Guidelines](#)
 
 🙏 **Acknowledgements**
